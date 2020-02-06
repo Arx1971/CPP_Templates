@@ -8,28 +8,28 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/home/adnan/source-code/CLionProjects/CPP_Templates/Class_Template_Array/cmake-build-debug"/>
+				<Option working_dir="/home/adnan7573/source-code/ClionProjects/CPP_Templates/Class_Template_Array/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j24 -f &quot;/home/adnan/source-code/CLionProjects/CPP_Templates/Class_Template_Array/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j24 -f &quot;/home/adnan/source-code/CLionProjects/CPP_Templates/Class_Template_Array/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j24 -f &quot;/home/adnan/source-code/CLionProjects/CPP_Templates/Class_Template_Array/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j24 -f &quot;/home/adnan/source-code/CLionProjects/CPP_Templates/Class_Template_Array/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/adnan7573/source-code/ClionProjects/CPP_Templates/Class_Template_Array/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/adnan7573/source-code/ClionProjects/CPP_Templates/Class_Template_Array/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/adnan7573/source-code/ClionProjects/CPP_Templates/Class_Template_Array/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/adnan7573/source-code/ClionProjects/CPP_Templates/Class_Template_Array/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/home/adnan/source-code/CLionProjects/CPP_Templates/Class_Template_Array/cmake-build-debug"/>
+				<Option working_dir="/home/adnan7573/source-code/ClionProjects/CPP_Templates/Class_Template_Array/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j24 -f &quot;/home/adnan/source-code/CLionProjects/CPP_Templates/Class_Template_Array/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j24 -f &quot;/home/adnan/source-code/CLionProjects/CPP_Templates/Class_Template_Array/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j24 -f &quot;/home/adnan/source-code/CLionProjects/CPP_Templates/Class_Template_Array/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j24 -f &quot;/home/adnan/source-code/CLionProjects/CPP_Templates/Class_Template_Array/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/adnan7573/source-code/ClionProjects/CPP_Templates/Class_Template_Array/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/adnan7573/source-code/ClionProjects/CPP_Templates/Class_Template_Array/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/adnan7573/source-code/ClionProjects/CPP_Templates/Class_Template_Array/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/adnan7573/source-code/ClionProjects/CPP_Templates/Class_Template_Array/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Class_Template_Array">
-				<Option output="/home/adnan/source-code/CLionProjects/CPP_Templates/Class_Template_Array/cmake-build-debug/Class_Template_Array" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/adnan/source-code/CLionProjects/CPP_Templates/Class_Template_Array/cmake-build-debug"/>
+				<Option output="/home/adnan7573/source-code/ClionProjects/CPP_Templates/Class_Template_Array/cmake-build-debug/Class_Template_Array" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/adnan7573/source-code/ClionProjects/CPP_Templates/Class_Template_Array/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -44,15 +44,15 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j24 -f &quot;/home/adnan/source-code/CLionProjects/CPP_Templates/Class_Template_Array/cmake-build-debug/Makefile&quot;  VERBOSE=1 Class_Template_Array"/>
-					<CompileFile command="/usr/bin/make -j24 -f &quot;/home/adnan/source-code/CLionProjects/CPP_Templates/Class_Template_Array/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j24 -f &quot;/home/adnan/source-code/CLionProjects/CPP_Templates/Class_Template_Array/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j24 -f &quot;/home/adnan/source-code/CLionProjects/CPP_Templates/Class_Template_Array/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/adnan7573/source-code/ClionProjects/CPP_Templates/Class_Template_Array/cmake-build-debug/Makefile&quot;  VERBOSE=1 Class_Template_Array"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/adnan7573/source-code/ClionProjects/CPP_Templates/Class_Template_Array/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/adnan7573/source-code/ClionProjects/CPP_Templates/Class_Template_Array/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/adnan7573/source-code/ClionProjects/CPP_Templates/Class_Template_Array/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Class_Template_Array/fast">
-				<Option output="/home/adnan/source-code/CLionProjects/CPP_Templates/Class_Template_Array/cmake-build-debug/Class_Template_Array" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/adnan/source-code/CLionProjects/CPP_Templates/Class_Template_Array/cmake-build-debug"/>
+				<Option output="/home/adnan7573/source-code/ClionProjects/CPP_Templates/Class_Template_Array/cmake-build-debug/Class_Template_Array" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/adnan7573/source-code/ClionProjects/CPP_Templates/Class_Template_Array/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -67,27 +67,27 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j24 -f &quot;/home/adnan/source-code/CLionProjects/CPP_Templates/Class_Template_Array/cmake-build-debug/Makefile&quot;  VERBOSE=1 Class_Template_Array/fast"/>
-					<CompileFile command="/usr/bin/make -j24 -f &quot;/home/adnan/source-code/CLionProjects/CPP_Templates/Class_Template_Array/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j24 -f &quot;/home/adnan/source-code/CLionProjects/CPP_Templates/Class_Template_Array/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j24 -f &quot;/home/adnan/source-code/CLionProjects/CPP_Templates/Class_Template_Array/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/adnan7573/source-code/ClionProjects/CPP_Templates/Class_Template_Array/cmake-build-debug/Makefile&quot;  VERBOSE=1 Class_Template_Array/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/adnan7573/source-code/ClionProjects/CPP_Templates/Class_Template_Array/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/adnan7573/source-code/ClionProjects/CPP_Templates/Class_Template_Array/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/adnan7573/source-code/ClionProjects/CPP_Templates/Class_Template_Array/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/home/adnan/source-code/CLionProjects/CPP_Templates/Class_Template_Array/cmake-build-debug"/>
+				<Option working_dir="/home/adnan7573/source-code/ClionProjects/CPP_Templates/Class_Template_Array/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j24 -f &quot;/home/adnan/source-code/CLionProjects/CPP_Templates/Class_Template_Array/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j24 -f &quot;/home/adnan/source-code/CLionProjects/CPP_Templates/Class_Template_Array/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j24 -f &quot;/home/adnan/source-code/CLionProjects/CPP_Templates/Class_Template_Array/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j24 -f &quot;/home/adnan/source-code/CLionProjects/CPP_Templates/Class_Template_Array/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/adnan7573/source-code/ClionProjects/CPP_Templates/Class_Template_Array/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/adnan7573/source-code/ClionProjects/CPP_Templates/Class_Template_Array/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/adnan7573/source-code/ClionProjects/CPP_Templates/Class_Template_Array/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/adnan7573/source-code/ClionProjects/CPP_Templates/Class_Template_Array/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/adnan/source-code/CLionProjects/CPP_Templates/Class_Template_Array/main.cpp">
+		<Unit filename="/home/adnan7573/source-code/ClionProjects/CPP_Templates/Class_Template_Array/main.cpp">
 			<Option target="Class_Template_Array"/>
 		</Unit>
-		<Unit filename="/home/adnan/source-code/CLionProjects/CPP_Templates/Class_Template_Array/CMakeLists.txt">
+		<Unit filename="/home/adnan7573/source-code/ClionProjects/CPP_Templates/Class_Template_Array/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

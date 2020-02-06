@@ -1,0 +1,3 @@
+/home/adnan7573/source-code/ClionProjects/CPP_Templates/Stack_Template/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/adnan7573/source-code/ClionProjects/CPP_Templates/Stack_Template/cmake-build-debug/CMakeFiles/Stack_Template.dir
+/home/adnan7573/source-code/ClionProjects/CPP_Templates/Stack_Template/cmake-build-debug/CMakeFiles/edit_cache.dir

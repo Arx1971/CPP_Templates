@@ -1,4 +1,4 @@
-/home/adnan7573/IDE/clion-2019.3.3/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/usr/bin/make -DCMAKE_C_COMPILER=/usr/bin/cc -DCMAKE_CXX_COMPILER=/usr/bin/c++ -G "CodeBlocks - Unix Makefiles" /home/adnan7573/source-code/ClionProjects/CPP_Templates/Class_Template_Array
+/home/adnan7573/IDE/clion-2019.3.3/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/usr/bin/make -DCMAKE_C_COMPILER=/usr/bin/cc -DCMAKE_CXX_COMPILER=/usr/bin/c++ -G "CodeBlocks - Unix Makefiles" /home/adnan7573/source-code/ClionProjects/CPP_Templates/Stack_Template
 -- The C compiler identification is GNU 7.4.0
 -- The CXX compiler identification is GNU 7.4.0
 -- Check for working C compiler: /usr/bin/cc
@@ -15,4 +15,4 @@
 -- Detecting CXX compile features - done
 -- Configuring done
 -- Generating done
--- Build files have been written to: /home/adnan7573/source-code/ClionProjects/CPP_Templates/Class_Template_Array/cmake-build-debug
+-- Build files have been written to: /home/adnan7573/source-code/ClionProjects/CPP_Templates/Stack_Template/cmake-build-debug

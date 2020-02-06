@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/adnan/source-code/CLionProjects/CPP_Templates/Stack_Template/main.cpp" "/home/adnan/source-code/CLionProjects/CPP_Templates/Stack_Template/cmake-build-debug/CMakeFiles/Stack_Template.dir/main.cpp.o"
+  "/home/adnan7573/source-code/ClionProjects/CPP_Templates/Stack_Template/main.cpp" "/home/adnan7573/source-code/ClionProjects/CPP_Templates/Stack_Template/cmake-build-debug/CMakeFiles/Stack_Template.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
