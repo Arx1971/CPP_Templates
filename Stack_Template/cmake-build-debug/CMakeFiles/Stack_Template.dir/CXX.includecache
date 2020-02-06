@@ -9,4 +9,12 @@
 /home/adnan7573/source-code/ClionProjects/CPP_Templates/Stack_Template/main.cpp
 iostream
 -
+vector
+-
+cstdlib
+-
+string
+-
+stdexcept
+-
 
