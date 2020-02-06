@@ -44,10 +44,10 @@ RM = /home/adnan/IDE/clion-2019.2.5/bin/cmake/linux/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/adnan/source-code/CLionProjects/C++_Template/Class_Template_Array
+CMAKE_SOURCE_DIR = /home/adnan/source-code/CLionProjects/CPP_Templates/Class_Template_Array
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/adnan/source-code/CLionProjects/C++_Template/Class_Template_Array/cmake-build-debug
+CMAKE_BINARY_DIR = /home/adnan/source-code/CLionProjects/CPP_Templates/Class_Template_Array/cmake-build-debug
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -74,14 +74,14 @@ preinstall:
 CMakeFiles/Class_Template_Array.dir/all:
 	$(MAKE) -f CMakeFiles/Class_Template_Array.dir/build.make CMakeFiles/Class_Template_Array.dir/depend
 	$(MAKE) -f CMakeFiles/Class_Template_Array.dir/build.make CMakeFiles/Class_Template_Array.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnan/source-code/CLionProjects/C++_Template/Class_Template_Array/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target Class_Template_Array"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnan/source-code/CLionProjects/CPP_Templates/Class_Template_Array/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target Class_Template_Array"
 .PHONY : CMakeFiles/Class_Template_Array.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Class_Template_Array.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnan/source-code/CLionProjects/C++_Template/Class_Template_Array/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnan/source-code/CLionProjects/CPP_Templates/Class_Template_Array/cmake-build-debug/CMakeFiles 2
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/Class_Template_Array.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnan/source-code/CLionProjects/C++_Template/Class_Template_Array/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnan/source-code/CLionProjects/CPP_Templates/Class_Template_Array/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/Class_Template_Array.dir/rule
 
 # Convenience name for target.
