@@ -34,7 +34,6 @@ void Array<T>::print() {
 
 template<typename T>
 void Array<T>::bubble_sort(T *arr, int s) {
-
     for (int i = 0; i < s - 1; i++) {
         for (int j = 0; j < s - 1; j++) {
             if (arr[j] > arr[j + 1]) {
@@ -56,6 +55,7 @@ int main() {
 
     a.print();
     a.bubble_sort(arr ,array_len);
-    a.print();
+    Array<int> b(arr, array_len);
+    b.print();
     return 0;
 }
