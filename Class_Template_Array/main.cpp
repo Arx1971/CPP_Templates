@@ -48,13 +48,12 @@ void Array<T>::bubble_sort(T *arr, int s) {
 int main() {
 
     int arr[] = {1, 5, 3, 4, 2, 4};
-
     int array_len = (sizeof(arr) / sizeof(arr[0]));
 
     Array<int> a(arr, array_len);
-
     a.print();
     a.bubble_sort(arr ,array_len);
+
     Array<int> b(arr, array_len);
     b.print();
     return 0;
